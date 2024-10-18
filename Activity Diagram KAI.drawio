@@ -1,9 +1,63 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="ww5y5yIQY9kgQxj026Ld">
-    <mxGraphModel>
+    <mxGraphModel dx="372" dy="1929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Z_9QPayGuzb8qD44aoed-10" value="v&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22piliih%20waktu%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontSize%3D20%3BfontStyle%3D1%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22970%22%20y%3D%22-670%22%20width%3D%22170%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-1000" width="270" height="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_9QPayGuzb8qD44aoed-11" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="-1030" width="390" height="1910" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_9QPayGuzb8qD44aoed-12" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="-1030" width="290" height="1910" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_9QPayGuzb8qD44aoed-13" value="Login" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-880" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_9QPayGuzb8qD44aoed-14" value="piliih waktu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="970" y="-670" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_9QPayGuzb8qD44aoed-16" value="pilih stasiun" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="965" y="-540" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_9QPayGuzb8qD44aoed-17" value="pilih tempat duduk" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="965" y="-360" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_9QPayGuzb8qD44aoed-19" value="pilih tiket" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="965" y="-220" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_9QPayGuzb8qD44aoed-20" value="booking tiket" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="965" y="-120" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_9QPayGuzb8qD44aoed-21" value="input data" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="965" y="-10" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_9QPayGuzb8qD44aoed-22" value="metode pembayaran" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="940" y="210" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_9QPayGuzb8qD44aoed-23" value="transfer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1040" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_9QPayGuzb8qD44aoed-24" value="KAIpay" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="940" y="520" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_9QPayGuzb8qD44aoed-25" value="invoice" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="970" y="750" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_9QPayGuzb8qD44aoed-26" value="penumpang" style="html=1;whiteSpace=wrap;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="920" y="-1030" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_9QPayGuzb8qD44aoed-27" value="sistem" style="html=1;whiteSpace=wrap;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1190" y="-1030" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_9QPayGuzb8qD44aoed-28" value="admin" style="html=1;whiteSpace=wrap;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="-1030" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_9QPayGuzb8qD44aoed-29" value="verifikasi password" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="-940" width="160" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
