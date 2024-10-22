@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="Page-1" id="s7LHoBz4bxoKhTNwpCAN">
-    <mxGraphModel dx="1323" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="Y8llstiKN4IjT3RQTSuy-1" value="main" style="" parent="0" />
-        <mxCell id="Y8llstiKN4IjT3RQTSuy-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Y8llstiKN4IjT3RQTSuy-1">
+        <mxCell id="Y8llstiKN4IjT3RQTSuy-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="Y8llstiKN4IjT3RQTSuy-1" vertex="1">
           <mxGeometry x="140" y="190" width="540" height="770" as="geometry" />
         </mxCell>
         <mxCell id="1" style="" parent="0" />
@@ -118,7 +118,7 @@
         <mxCell id="kHwiwZnfwjtUSQPaJ7qr-28" value="Pembayaran" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="250" y="630" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kHwiwZnfwjtUSQPaJ7qr-30" value="Cetak Invoive" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="kHwiwZnfwjtUSQPaJ7qr-30" value="Cetak Invoice" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="363" y="840" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kHwiwZnfwjtUSQPaJ7qr-31" value="Tunjukan&amp;nbsp;&lt;div&gt;jadwal kereta&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
